@@ -1,3 +1,6 @@
 {
-  default = "rajeev";
+  default = {
+    username = "rajeev";
+    name = "Rajeev Menon";
+  };
 }
